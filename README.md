@@ -14,4 +14,4 @@ It also includes a self-destruct button if you ever need to share your screen (v
 
 Credits:
 
-Reflex Lite osu! - osu!rx for the osumanager stuff
+Reflex Lite osu! - osu!rx for the osumanager stuff and timewarp code
